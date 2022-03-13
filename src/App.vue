@@ -292,7 +292,7 @@ export default {
 
           <div class="px-2 md:px-4 flex mb-4 leading-6">
             <div class="flex w-full justify-between text-xs md:text-sm">
-                <p>Running, personal development, making ramen, transcribing music, jazz & bossa nova guitar</p>
+                <p>Running, personal development, making ramen, transcribing music, jazz & bossa nova guitar.</p>
             </div>
           </div>
         </div>
