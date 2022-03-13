@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+
+@font-face {
+    font-family: 'Manrope';
+    src: url("./assets/Manrope-Regular.ttf");
+  }
+
+@tailwind utilities;
+
+i[class^="fi-rr-"]:before, i[class*=" fi-rr-"]:before, span[class^="fi-rr-"]:before, span[class*="fi-rr-"]:before,
+i[class^="fi-br-"]:before, i[class*=" fi-br-"]:before, span[class^="fi-br-"]:before, span[class*="fi-br-"]:before {
+    top: 2px;
+    position: relative;
+}
