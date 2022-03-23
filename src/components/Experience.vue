@@ -22,11 +22,11 @@ export default {
       <div class="text-gray-400 text-xs sm:text-sm flex justify-between">
         <div class="block sm:flex sm:space-x-8">
           <div class="flex">
-            <i class="fi fi-rr-building mr-3"></i>
+            <i class="fi fi-br-building mr-3"></i>
             <span>{{ company }}</span>
           </div>
           <div class="mt-1 sm:mt-0">
-            <i class="fi fi-rr-marker mr-3"></i>
+            <i class="fi fi-br-marker mr-3"></i>
              <span>{{ location }}</span>
           </div>
         </div>

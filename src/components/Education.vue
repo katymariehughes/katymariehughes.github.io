@@ -13,8 +13,8 @@ export default {
   computed: {
     icon: function () {
       return {
-        'fi-rr-graduation-cap': !this.isSchool,
-        'fi-rr-school': this.isSchool,
+        'fi-br-graduation-cap': !this.isSchool,
+        'fi-br-school': this.isSchool,
       }
     },
   },
@@ -32,7 +32,7 @@ export default {
       <div class="text-gray-400 text-xs sm:text-sm flex justify-between">
         <div class="flex space-x-8">
           <span>
-            <i class="fi fi-rr-marker ml-0.5 mr-2 sm:mr-2.5"></i>
+            <i class="fi fi-br-marker ml-0.5 mr-2 sm:mr-2.5"></i>
             {{ location }}
           </span>
         </div>

@@ -197,7 +197,7 @@ export default {
             Personal Projects
           </h3>
 
-          <Project title="Time Tracker" icon="fi-rr-clock">
+          <Project title="Time Tracker" icon="fi-br-clock">
             <div class="block md:flex md:space-x-3">
               <div class="text-xs sm:text-sm">
                 <Bullet>
@@ -218,7 +218,7 @@ export default {
             </div>
           </Project>
 
-          <Project title="Betting Game" icon="fi-rr-dice-alt">
+          <Project title="Betting Game" icon="fi-br-dice-alt">
             <div class="flex space-x-3">
               <div class="text-xs sm:text-sm">
                 <Bullet>
@@ -233,7 +233,7 @@ export default {
             </div>
           </Project>
 
-          <Project title="Trading Bot" icon="fi-rr-stats">
+          <Project title="Trading Bot" icon="fi-br-stats">
             <div class="flex space-x-3">
               <div class="text-xs sm:text-sm">
                 <Bullet>
@@ -252,7 +252,7 @@ export default {
           </h3>
 
           <div class="px-2 md:px-4 flex mb-4 leading-6">
-            <i class="fi fi-rr-diploma mr-3 text-sm sm:text-lg"></i>
+            <i class="fi fi-br-diploma mr-3 text-sm sm:text-lg"></i>
             <div class="flex w-full justify-between text-xs md:text-sm">
               <div>
                 <p class="font-semibold">
@@ -261,14 +261,14 @@ export default {
                 <p class="text-gray-500">(MCSD: Web Applications)</p>
               </div>
               <div class="text-gray-400 text-xs">
-                <i class="fi fi-rr-calendar mr-1"></i>
+                <i class="fi fi-br-calendar mr-1"></i>
                 '17
               </div>
             </div>
           </div>
 
           <div class="px-2 md:px-4 flex mb-3 leading-6">
-            <i class="fi fi-rr-trophy mr-3 text-sm sm:text-lg"></i>
+            <i class="fi fi-br-trophy mr-3 text-sm sm:text-lg"></i>
             <div class="flex w-full justify-between text-xs md:text-sm">
               <div>
                 <p class="font-semibold">
@@ -279,7 +279,7 @@ export default {
                 </p>
               </div>
               <div class="text-gray-400 text-xs">
-                <i class="fi fi-rr-calendar mr-1"></i>
+                <i class="fi fi-br-calendar mr-1"></i>
                 '20
               </div>
             </div>
