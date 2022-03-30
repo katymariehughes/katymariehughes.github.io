@@ -23,8 +23,8 @@ export default {
 </script>
 
 <template>
-  <div class="h-full min-w-[392px] bg-gray-50 flex flex-col justify-center relative">
-    <img src="./assets/aurora.jpg" alt="" class="absolute object-fill h-full w-full" />
+  <div id="main" class="h-full min-w-[392px] bg-gray-50 flex flex-col justify-center relative">
+    <!-- <img src="./assets/aurora.jpg" alt="" class="absolute object-fill h-full w-full" /> -->
 
     <div class="mx-3 my-6 max-h-4/5 relative px-3 md:px-6 py-3 md:py-6 bg-white shadow-xl ring-gray-900/5 max-w-6xl lg:mx-auto rounded-xl">
       <div class="pt-4 md:pt-8 text-base h-full overflow-hidden leading-7 space-y-6 text-gray-600">
@@ -305,5 +305,8 @@ export default {
 #app {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+#main {
+  background-image: linear-gradient(116.4deg, rgb(213, 246, 248) 16.6%, rgba(255, 255, 238, 0.9) 82.46%);
 }
 </style>
